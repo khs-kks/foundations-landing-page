@@ -190,3 +190,17 @@ button {
     border-style: solid;
     
 }
+
+
+/* ############## Footer ############## */
+
+
+.footer {
+    flex: 1;
+    text-align: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    size: 18px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
